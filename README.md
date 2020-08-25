@@ -8,6 +8,9 @@ Using OpenCV a video of data is recorded where user should give all diffrent ori
 vid2pic.py 
 Using the recorded video, nth frame of the video is saved to create thousands of images for training and testing. 
 
+rps_train.ipynb
+Used for training and finetuning classifer model. 
+
 play_rps.py 
 Launch the webcam classifier, where using the trained model, hand gestures are classified. 
 
