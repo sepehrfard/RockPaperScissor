@@ -11,4 +11,4 @@ Using the recorded video, nth frame of the video is saved to create thousands of
 play_rps.py 
 Launch the webcam classifier, where using the trained model, hand gestures are classified. 
 
-![Image of Game](https://github.com/sepehrfard/ROCKPAPERSCISSOR/blob/master/images/gameplay.gif)
+![](https://github.com/sepehrfard/ROCKPAPERSCISSOR/blob/master/images/gameplay.gif)
